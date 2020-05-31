@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/backtomenu"
+          android:title="Back To Menu"/>
+    <item android:id="@+id/cancelissue"
+          android:title="CancelIssue"
+         />
+    <item android:id="@+id/help"
+          android:title="Help"
+          />
+
+</menu>

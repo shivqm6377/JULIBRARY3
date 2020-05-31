@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <item name="themeLight" type="id"></item>
+    <item name="themeDark" type="id"></item>
+    <item name="themeBattery" type="id"></item>
+    <item name="themeSystem" type="id"></item>
+</resources>
